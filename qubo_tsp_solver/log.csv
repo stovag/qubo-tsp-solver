@@ -1,2 +1,0 @@
-Nodes,Type,Logical_Variables,Qubits,Violations,Cost,Qpu_Access_Time(μs),Run_Time(μs),Solver
-4,tsp,16,35,0,97,143249.56,143249.56,Advantage_system4.1
